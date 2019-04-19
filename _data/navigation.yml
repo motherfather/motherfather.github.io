@@ -1,0 +1,15 @@
+# Menu navigation links
+
+# 내부 링크
+- title: 자바
+  url: /java/
+  icon: fab fa-java
+  
+- title: 자바스크립트
+  url: /javascript/
+  icon: fab fa-js-square
+  
+- title: 정리예정
+  url: /etc/
+  icon: fa fa-lock  
+  private: no-show
