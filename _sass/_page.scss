@@ -569,8 +569,7 @@ header .entry-meta {
 .footer-wrapper {
 
 	background-color: darken(rgba(0, 0, 0, 0.5), 80);
-    height: 40px;
-    padding: 10px;
+    	padding: 10px;
 
 	@include clearfix;
 	margin: 2em auto;
