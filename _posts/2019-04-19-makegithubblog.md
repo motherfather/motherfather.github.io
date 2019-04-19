@@ -5,7 +5,6 @@ image:
   feature: mountain-2585069_1920.jpg
   credit: akbaranifsolo
   creditlink: https://pixabay.com/ko/users/akbaranifsolo-6097429/
-  
 ---
 https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
 
