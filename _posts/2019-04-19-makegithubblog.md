@@ -2,6 +2,7 @@
 layout: post
 title: 깃허브 블로그 만들때 참고하기
 image:
+  path: /images/mountain-2585069_1920.jpg
   feature: mountain-2585069_1920.jpg
   credit: akbaranifsolo
   creditlink: https://pixabay.com/ko/users/akbaranifsolo-6097429/
