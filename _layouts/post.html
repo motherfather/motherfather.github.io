@@ -85,9 +85,9 @@
       {{ content }}
 		
 		<div>
+			{% if page.reference %}
 			<h2>참고</h2>
 			<ol>
-			{% if page.reference %}
 				{% for re in page.reference %}
 					{% assign rere = re | split: ", " %}
 					{% if rere[1] %}
@@ -96,8 +96,8 @@
 						<li style="margin: 1px;"><t style="margin: 1px;"><a href="{{ rere[0] }}">{{ rere[0] }}</a></t></li><br/>
 					{% endif %}
 				{% endfor %}
-			{% endif %}
 			<ol>
+			{% endif %}
 		</div>
 	  
       <footer class="entry-meta">
