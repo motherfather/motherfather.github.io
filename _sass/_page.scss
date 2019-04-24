@@ -457,8 +457,9 @@ header .entry-meta {
 .list-item {
 	width: 100%;
 	text-align: center;
-	background-color: darken($base-color,30);
+	background-color: rgba(84, 167, 251, 0.32);
 	border-radius: 5px;
+	border: solid 1px;
 	
 	h4 { 
 		@include font-rem(18);
