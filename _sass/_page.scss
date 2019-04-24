@@ -103,7 +103,7 @@ body {
 		margin: 0;
 		@include font-rem(18);
 		text-transform: uppercase;
-		color: lighten($base-color,20);
+		color: #fff;
 
 		@media #{$medium} {
 			@include font-rem(24);
@@ -111,7 +111,7 @@ body {
 	}
 
 	p {
-		color: lighten($base-color,20);
+		color: #fff;
 	}
 }
 
